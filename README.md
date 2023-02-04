@@ -1,3 +1,13 @@
+# Práctica de Despliegue en Servidores
+
+## Frontend con React
+Frontend con React desplegado en [http://100.25.162.196/](http://100.25.162.196/)
+
+## Backend con Node
+Backend con Node desplegado en [http://ec2-100-25-162-196.compute-1.amazonaws.com/](http://ec2-100-25-162-196.compute-1.amazonaws.com/)
+Para acceder a la página que usa la base de datos y que contiene los estáticos (servidos por Nginx) pulsar sobre DEMO o ir a [http://ec2-100-25-162-196.compute-1.amazonaws.com/anuncios](http://ec2-100-25-162-196.compute-1.amazonaws.com/anuncios)
+
+
 # NodePop
 
 [Demo](/anuncios) of the methods (this link works only if you run the project)
